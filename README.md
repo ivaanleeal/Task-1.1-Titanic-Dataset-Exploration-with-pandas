@@ -1,4 +1,8 @@
-# Explicación de la Tarea:
+# Explicación de la Tarea: :bookmark_tabs:
+
+---
+
+# Objetivos de la Tarea: :paperclip:
 
 ---
 
