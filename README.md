@@ -1,8 +1,10 @@
 # Explicación de la Tarea: :bookmark_tabs:
+En esta tarea se verán diferentes métodos de pandas para tratar datos de un csv, los cuales tendremos que utilizar para así entender su funcionamiento y ver para que situaciones los podríamos emplear.
 
 ---
 
-# Objetivos de la Tarea: :paperclip:
+# Ejecución de la Tarea: :paperclip:
+Por cada ejercicio se hizo un apartado con cada método
 
 ---
 
